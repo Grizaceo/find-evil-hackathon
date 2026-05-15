@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Implement the FIND EVIL! submission according to BLUEPRINT.md.
+Implement the MR. Robot Adversarial submission according to BLUEPRINT.md.
 
 ## 🚦 Get Started
 
